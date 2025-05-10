@@ -1,6 +1,6 @@
-# Contexte
-Notre étude portera sur un site industriel, en l’occurence une centrale nucléaire, situé en bordure d’une rivière avec une digue de protection dont la hauteur optimale est à déterminer. La proximité avec la rivière peut provoquer des inondations du site si la cote atteinte pendant un épisode de crue dépasse la hauteur de la digue de protection. 
+# 🚧 Context
+Our study focuses on an industrial site, specifically a nuclear power plant, located near a river and protected by a levee whose optimal height needs to be determined. The site's proximity to the river poses a flood risk if the water level during a flood event exceeds the height of the protective levee.
 
 # Approches
-Nous allons estimer la hauteur de la surverse à partir des données historiques et du modèle hydraulique, tout en intégrant la contrainte économique afin de déterminer la hauteur optimale finale.
+We will estimate the overflow height based on historical data and a hydraulic model, while incorporating economic constraints to determine the final optimal height.
 
